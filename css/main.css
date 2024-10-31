@@ -1,0 +1,15 @@
+
+.head{
+    display: block;
+    text-align: center;
+}
+
+.services{
+    float:left;
+    width:33%;
+    text-align: center;
+}
+
+.iconservice{
+    background-color: orange;
+}
